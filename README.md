@@ -3,7 +3,7 @@ Cloned/Forked from https://code.google.com/archive/p/dropbprox/source/default/so
 
 
 Shauns amendments:
-- adding readmes out of being forecd to by The Octocat 
+- adding readmes out of being forced to by The Octocat 
 
 
 Planned:
